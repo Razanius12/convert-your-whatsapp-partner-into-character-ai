@@ -1,0 +1,322 @@
+{
+  "{{char}}": "",
+  "age": 0,
+  "marital_status": "",
+  "children": "",
+  "height": "",
+  "hair": ["", "", "", "", ""],
+  "eyes": ["", "", "", ""],
+  "appearance": "",
+  "residence": {
+    "location": "",
+    "description": ""
+  },
+  "occupation": {
+    "title": "",
+    "description": ""
+  },
+  "likes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "dislikes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "traits": {
+    "wisdom": "",
+    "unique_trait1": "",
+    "unique_trait2": "",
+    "unique_trait3": "",
+    "unique_trait4": "",
+    "unique_trait5": "",
+    "trait_bool1": false,
+    "trait_bool2": false
+  },
+  "personality": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "responses": [
+    {
+      "type": "understanding",
+      "text": ""
+    },
+    {
+      "type": "eureka",
+      "text": ""
+    },
+    {
+      "type": "apologetic",
+      "text": ""
+    },
+    {
+      "type": "amused",
+      "text": ""
+    },
+    {
+      "type": "gleeful_realization",
+      "text": ""
+    },
+    {
+      "type": "dumbfounded",
+      "text": ""
+    },
+    {
+      "type": "interruptive",
+      "text": ""
+    },
+    {
+      "type": "inappropriate_situation",
+      "text": ""
+    },
+    {
+      "type": "okay",
+      "text": ""
+    },
+    {
+      "type": "dismissive",
+      "text": ""
+    },
+    {
+      "type": "stalling",
+      "text": ""
+    },
+    {
+      "type": "response_to_enemies",
+      "text": ""
+    }
+  ],
+  "desires": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "skills": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "fashion": "",
+  "background": "",
+  "conversation_style": "",
+  "extended_profile": {
+    "full_name": "",
+    "aliases": ["", ""],
+    "birthday": "",
+    "pronouns": "",
+    "sexuality": "",
+    "species": "",
+    "nationality": "",
+    "ethnicity": "",
+    "weight": "",
+    "body_type": "",
+    "ears": "",
+    "face_details": "",
+    "skin": "",
+    "mbti": "",
+    "enneagram": "",
+    "moral_alignment": "",
+    "archetype": "",
+    "temperament": "",
+    "schemata": ["", "", ""],
+    "core_values": ["", "", ""],
+    "fears": [
+      "",
+      "",
+      ""
+    ],
+    "manias": [""],
+    "strengths": [
+      "",
+      "",
+      ""
+    ],
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "health": {
+      "disabilities": "",
+      "mental_disorders": "",
+      "illnesses": "",
+      "allergies": "",
+      "medication": "",
+      "blood_type": ""
+    },
+    "creators": ["", ""],
+    "social_media": {
+      "creator1_instagram": "",
+      "creator2_instagram": "",
+      "personal_accounts": ""
+    },
+    "pets": "",
+    "car": "",
+    "house": "",
+    "religion": "",
+    "social_class": "",
+    "education": {
+      "type": "",
+      "iq": 0,
+      "languages": ["", "", ""]
+    },
+    "daily_routine": "",
+    "setting": "",
+    "place_of_birth": "",
+    "career": "",
+    "family": {
+      "mother": "",
+      "father": "",
+      "siblings": "",
+      "uncles": "",
+      "aunts": "",
+      "grandmothers": "",
+      "grandfathers": "",
+      "cousins": "",
+      "nephews": "",
+      "nieces": ""
+    },
+    "relationships": {
+      "friends": [
+        "",
+        "",
+        ""
+      ],
+      "love_interest": "",
+      "enemies": ""
+    },
+    "hobbies": [
+      "",
+      "",
+      ""
+    ],
+    "pet_peeves": [
+      "",
+      "",
+      ""
+    ],
+    "quirks": "",
+    "flaws": "",
+    "favorite_colors": ["", "", ""],
+    "favorite_books": ["", ""],
+    "favorite_movies": "",
+    "favorite_music": ["", "", ""],
+    "favorite_songs": "",
+    "favorite_tv_shows": "",
+    "favorite_games": ["", ""],
+    "favorite_food": ["", ""],
+    "favorite_drinks": ["", ""],
+    "favorite_desserts": "",
+    "favorite_season": "",
+    "favorite_holiday": "",
+    "favorite_weather": "",
+    "favorite_animals": "",
+    "favorite_places": ["", ""],
+    "favorite_sounds": "",
+    "favorite_smells": "",
+    "favorite_mythical_creatures": "",
+    "favorite_websites": "",
+    "favorite_stores": "",
+    "favorite_numbers": "",
+    "favorite_words": "",
+    "least_favorites": {
+      "colors": "",
+      "books": "",
+      "movies": "",
+      "music": "",
+      "songs": "",
+      "tv_shows": "",
+      "games": "",
+      "food": "",
+      "drinks": "",
+      "desserts": "",
+      "season": "",
+      "holiday": "",
+      "weather": "",
+      "animals": "",
+      "places": "",
+      "sounds": "",
+      "smells": "",
+      "mythical_creatures": "",
+      "websites": "",
+      "stores": "",
+      "numbers": "",
+      "words": ""
+    },
+    "voice_description": "",
+    "speech_patterns": [
+      "",
+      "",
+      ""
+    ],
+    "mannerisms": [
+      "",
+      "",
+      ""
+    ],
+    "life_events": [
+      "",
+      "",
+      ""
+    ],
+    "memory_sections": {
+      "good_memories": [""],
+      "bad_memories": [""]
+    },
+    "locations": [""],
+    "objects": [""],
+    "wardrobe_details": {
+      "outfit1_name": "",
+      "outfit1_description": "",
+      "outfit2_name": "",
+      "outfit2_description": "",
+      "outfit3_name": "",
+      "outfit3_description": ""
+    },
+    "goals_detailed": [
+      "",
+      ""
+    ],
+    "important_facts": [
+      "",
+      ""
+    ],
+    "character_notes": {
+      "about_person1": "",
+      "about_person2": "",
+      "about_person3": ""
+    },
+    "roleplay_context": {
+      "focus_descriptors": [
+        "",
+        "",
+        ""
+      ],
+      "dialect": "",
+      "knowledge_context": ""
+    },
+    "directive_notes": {
+      "role": "",
+      "personality_directive": "",
+      "behavior": "",
+      "special_instructions": ""
+    },
+    "example_interactions": {
+      "question1": "",
+      "answer1": "",
+      "question2": "",
+      "answer2": "",
+      "question3": "",
+      "answer3": ""
+    }
+  }
+}
